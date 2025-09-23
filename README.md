@@ -1,6 +1,4 @@
-# Landing page
+ Landing page
 
-A Pen created on CodePen.
-
-Original URL: [https://codepen.io/Ashmita-Kumari/pen/raxabyP](https://codepen.io/Ashmita-Kumari/pen/raxabyP).
+you can view the landing page by clicking the link: https://codepen.io/Ashmita-Kumari/full/raxabyP
 
